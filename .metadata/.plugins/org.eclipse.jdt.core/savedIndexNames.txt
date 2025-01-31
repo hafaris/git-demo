@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\FARI_PC\Desktop\git-demo-ex\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3901465222.index
+3655754283.index
